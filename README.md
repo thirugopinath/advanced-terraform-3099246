@@ -30,7 +30,11 @@ David Swersky
                             
 DevOps and enterprise architect
 
-                            
+### Learning
+
+Gopinath TK
+
+Senior Site Reliablity Engineer                            
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/david-swersky).
 
